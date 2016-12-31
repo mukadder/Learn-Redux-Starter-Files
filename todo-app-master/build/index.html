@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+
+	<title>Todo App</title>
+
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui,user-scalable=0">
+	<meta name="e840127dba35b2939858e9ed30d25cb70b353e25" content="117ae21d29f8732b0bde7381da50aa67b1548bd9" />
+
+	<link rel="icon" href="data:;base64,iVBORw0KGgo=">
+
+	<style>
+		html, body, main, div, section {
+			position: relative;
+		}
+
+		body {
+			color: #393939;
+			font-size: 11px;
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		}
+
+		#app {
+			width: 37rem;
+			margin: 2em auto;
+		}
+
+		input {
+			color: #393939;
+			background: white;
+			border: 0.2em solid #eeeeee;
+		}
+
+		input:active, input:hover, input:focus {
+			border-color: #cccccc;
+		}
+
+		input:active, input:focus {
+			background: #fffffa;
+		}
+
+		.site-header {
+			padding: 0.5em 0;
+			background: #f6f6f6;
+			border: 1px solid #f0f0f0;
+		}
+
+		.site-header nav .link {
+			color: black;
+			padding: 1em;
+			font-size: 17px;
+			text-decoration: none;
+			text-transform: uppercase;
+		}
+
+		.page {
+			margin: 1em 0;
+			padding: 1em;
+			background: #f6f6f6;
+		}
+
+		.todos-new-form {
+			margin: 1em 0;
+		}
+
+		.todos-new-form .todos-new-form-input {
+			width: 34.4rem;
+			padding: 0.5rem;
+			font-size: 1.5em;
+		}
+
+		.todos-list .list-item {
+			width: 35rem;
+			margin: 0.25em 0;
+			padding: 0.3em;
+			background: white;
+			font-size: 1.2em;
+		}
+
+		.todos-list .list-item * {
+			vertical-align: middle;
+		}
+
+		.todos-list .list-item .description {
+			padding: 0 0.5em 0 0.3em;
+		}
+
+		.todos-list .list-item .button {
+			padding: 0.1em 0.3em;
+			background: #ffcccc;
+			border: 1px solid #aaaaaa;
+			border-radius: 2px;
+			font-size: 0.7em;
+			cursor: pointer;
+			visibility: hidden;
+		}
+
+		.todos-list .list-item:hover .button {
+			visibility: visible;
+		}
+
+		.todos-summary {
+			width: 35rem;
+			margin-top: 0.5rem;
+		}
+
+		.todos-summary * {
+			display: inline-block;
+			margin: 0.5em;
+			padding: 0.3em 0.6em;
+			cursor: pointer;
+		}
+
+		.todos-summary .is-selected {
+			border: 1px solid #aaaaaa;
+			border-radius: 2px;
+		}
+
+		.about-page {
+			font-size: 14px;
+		}
+
+		.about-page a {
+			color: #333377;
+		}
+	</style>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react.js" defer></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react-dom.js" defer></script>
+
+	<script src="1.0.0/build.js" defer></script>
+
+	<script>document.documentElement.className += (("ontouchstart" in document.documentElement) ? ' touch-enabled' : ' touch-disabled');</script>
+</head>
+<body>
+	<div id="app"><div id="splash"></div></div>
+</body>
+</html>
