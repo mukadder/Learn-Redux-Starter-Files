@@ -1,6 +1,7 @@
 react-hot-boilerplate
 =====================
-
+http://www.jchapron.com/2015/08/14/getting-started-with-redux/
+https://github.com/jchapron/redux-friendlist-demo/tree/v1.0/src
 The minimal dev environment to enable live-editing React components.
 
 ### Usage
