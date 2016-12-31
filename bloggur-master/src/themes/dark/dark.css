@@ -1,0 +1,322 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
+@value globalColor: #ffffff;
+@value globalBackgroundColor: #334455;
+@value linkColor: #ddeeff;
+@value linkHoverColor: #eeffdd;
+@value buttonColor: #ddeeff;
+@value buttonHoverColor: #eeffdd;
+@value buttonBackgroundColor: #445566;
+@value buttonHoverBackgroundColor: #556677;
+@value inputColor: #334455;
+@value inputBackgroundColor: #ddeeff;
+@value inputFocusBackgroundColor: #eeffdd;
+@value inputFocusBorderColor: #556677;
+@value errorColor: #dd2211;
+@value errorBackgroundColor: #ddeeff;
+@value entryBackgroundColor: #000000;
+@value entryInputColor: #ffffff;
+@value entryButtonColor: #001122;
+@value entryButtonBackgroundColor: #ddeeff;
+@value entryButtonHoverColor: #113322;
+@value entryButtonHoverBackgroundColor: #eeffdd;
+@value homeIconBackgroundColor: #445566;
+@value homeIconHoverBackgroundColor: #556677;
+@value homeIconColor: #ddeeff;
+@value homeIconHoverColor: #eeffdd;
+
+html, body, :global(#root) {
+  color: globalColor;
+  height: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: Droid Sans;
+  background-color: globalBackgroundColor;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+input {
+  outline: none;
+}
+a {
+  color: linkColor;
+  cursor: pointer;
+  outline: none;
+  text-decoration: none;
+}
+a:hover {
+  color: linkHoverColor;
+}
+button {
+  color: buttonColor;
+  cursor: pointer;
+  outline: none;
+  text-decoration: none;
+}
+button:hover {
+  color: buttonHoverColor;
+}
+.NotFound {
+  text-align: center;
+}
+.FlatButton {
+  border: 0;
+  padding: 8px;
+  background-color: buttonBackgroundColor;
+  font-size: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+.FlatButton:hover {
+  background-color: buttonHoverBackgroundColor;
+}
+.Input {
+  border: 0;
+  padding: 8px;
+  font-size: inherit;
+  color: inputColor;
+  background-color: inputBackgroundColor;
+  max-width: 100%;
+}
+.Input:focus {
+  border-color: inputFocusBorderColor;
+  background-color: inputFocusBackgroundColor;
+}
+.Bloggur {
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  justify-content: space-around;
+}
+.Header {
+  width: 100%;
+  text-align: left;
+}
+.HomeIcon {
+  display: inline-block;
+  position: relative;
+  width: 35px;
+  height: 35px;
+  vertical-align: top;
+  background-color: homeIconBackgroundColor;
+}
+.HomeIcon:hover {
+  background-color: homeIconHoverBackgroundColor;
+  cursor: pointer;
+}
+.HomeIcon:after {
+  content: "";
+  position: absolute;
+  top: 5px;
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+  border-top: 15px double homeIconColor;
+  border-bottom: 5px solid homeIconColor;
+}
+.HomeIcon:hover:after {
+  border-color: homeIconHoverColor;
+}
+.UserWelcome {
+  display: inline-block;
+}
+.UserWelcomeMessage {
+  display: inline-block;
+  padding: 8px 16px;
+}
+.LogInLink {
+  composes: FlatButton;
+}
+.UserLogIn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+.UserNameInput {
+  composes: Input;
+  width: 200px;
+}
+.UserPasswordInput {
+  composes: Input;
+  width: 200px;
+}
+.LogInOrSignUp {
+  display: flex;
+  align-items: stretch;
+  width: 200px;
+}
+.LogInButton {
+  composes: FlatButton;
+  flex-grow: 1;
+}
+.SignUpButton {
+  composes: FlatButton;
+  flex-grow: 1;
+}
+.LogInStatus {
+  width: 200px;
+  height: 36px;
+  padding: 8px;
+  text-align: center;
+}
+.LoggingIn {
+  composes: LogInStatus;
+}
+.SigningUp {
+  composes: LogInStatus;
+}
+.UserError {
+  composes: LogInStatus;
+  color: errorColor;
+  background-color: errorBackgroundColor;
+}
+.UserError:empty {
+  background-color: transparent;
+}
+.LogOut {
+  display: inline-block;
+}
+.LogOutButton {
+  composes: FlatButton;
+}
+.ThemeSelector {
+  float: right;
+}
+.ThemeName {
+  composes: FlatButton;
+}
+.Body {
+  display: flex;
+  padding: 0;
+  overflow: auto;
+  flex-grow: 1;
+  flex-direction: column;
+}
+.Contents {
+  flex: 2;
+  display: flex;
+  flex-flow: row wrap;
+}
+.EntryList {
+  width: 240px;
+  overflow: auto;
+}
+.EntryListHeader {
+  padding: 16px;
+  margin: 0;
+}
+.LatestEntries {
+  composes: Contents;
+}
+.LatestEntryList {
+  composes: EntryList;
+}
+.LatestEntryListHeader {
+  composes: EntryListHeader;
+}
+.UserProfile {
+  composes: Contents;
+}
+.UserProfileWithEntry {
+  composes: UserProfile;
+}
+.UserEntryList {
+  composes: EntryList;
+}
+.UserEntryListHeader {
+  composes: EntryListHeader;
+}
+.EntryListItem {
+  display: block;
+  padding: 8px 16px;
+}
+.EntryLink {
+  composes: EntryListItem;
+}
+.EntryLink:hover {
+  background-color: entryBackgroundColor;
+}
+.EntryLinkSelected {
+  composes: EntryLink;
+  background-color: entryBackgroundColor;
+}
+.CreateLink {
+  composes: EntryLink;
+}
+.CreateLinkSelected {
+  composes: EntryLinkSelected;
+}
+.UserNotFound {
+  composes: EntryListHeader;
+}
+.NothingYet {
+  composes: EntryListItem;
+}
+.Entry {
+  display: flex;
+  padding: 16px;
+  overflow: auto;
+  flex-grow: 1;
+  flex-direction: column;
+  background-color: entryBackgroundColor;
+}
+.EntryCreator {
+  composes: Entry;
+}
+.EntryEditor {
+  composes: Entry;
+}
+.EntryInput {
+  flex: 1;
+  color: entryInputColor;
+  border: 0px;
+  padding: 0px;
+  outline: none;
+  overflow: auto;
+  font-size: 14px;
+  background-color: entryBackgroundColor;
+}
+.EntryCreatorInput {
+  composes: EntryInput;
+}
+.EntryEditorInput {
+  composes: EntryInput;
+}
+.EntryButton {
+  color: entryButtonColor;
+  border: 0px;
+  padding: 8px;
+  font-size: 14px;
+  min-height: 34px;
+  margin-top: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: entryButtonBackgroundColor;
+}
+.EntryButton:hover {
+  color: entryButtonHoverColor;
+  background-color: entryButtonHoverBackgroundColor;
+}
+.EntryError {
+  margin: 8px auto 0;
+}
+.SaveButton {
+  composes: EntryButton;
+}
+.EditButton {
+  composes: EntryButton;
+}
+
+@media (max-width: 640px) {
+  .Contents > .EntryList {
+    width: 100%;
+  }
+  .UserProfileWithEntry > .UserEntryList {
+    width: 0;
+  }
+}
