@@ -34,5 +34,8 @@ Pull requests that fix dependencies between the videos and this repo are welcome
 ### Q: What theme and font are you using?
 
 **A:** Cobalt2 and Operator Mono. I wrote a bit of info here → <http://wesbos.com/uses>
+Hitesh notes
+React Router keeps your UI in sync with the URL. It has a simple API with powerful features like lazy code loading, dynamic route matching, and location transition handling built right in. Make the URL your first thought, not an after-thought.
+
 
 
