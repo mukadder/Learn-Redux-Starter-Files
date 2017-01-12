@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42b84f28-caa5-4063-9268-be9ecbf79426" name="Default" comment="" />
+    <list default="true" id="42b84f28-caa5-4063-9268-be9ecbf79426" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Quiz-Simply-React-master/README.md" afterPath="$PROJECT_DIR$/Quiz-Simply-React-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bloggur-master/README.md" afterPath="$PROJECT_DIR$/bloggur-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catbook-redux-master/README.md" afterPath="$PROJECT_DIR$/catbook-redux-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/egghead-react-redux-image-gallery-master/README.md" afterPath="$PROJECT_DIR$/egghead-react-redux-image-gallery-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example-weather-webapp-master/README.md" afterPath="$PROJECT_DIR$/example-weather-webapp-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-tutorial-master/README.md" afterPath="$PROJECT_DIR$/redux-tutorial-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux-wanted-list-master/README.md" afterPath="$PROJECT_DIR$/redux-wanted-list-master/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,8 +30,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/guide-3-redux/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example-weather-webapp-master/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="65" lean-forward="false" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pluralsight_jest/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reactjs-by-example-master/chapter13/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/1-your-first-component/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/1-your-first-component/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/2-props/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-861">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/2-props/notes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1701">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pluralsight_jest/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dark.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bloggur-master/src/themes/dark/dark.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -63,6 +166,15 @@
         <option value="$PROJECT_DIR$/redux-voting-server/notes.txt" />
         <option value="$PROJECT_DIR$/redux-voting-server/index.js" />
         <option value="$PROJECT_DIR$/guide-3-redux/README.md" />
+        <option value="$PROJECT_DIR$/redux-friendlist-demo-1.0/README.md" />
+        <option value="$PROJECT_DIR$/catbook-redux-master/README.md" />
+        <option value="$PROJECT_DIR$/redux-tutorial-master/README.md" />
+        <option value="$PROJECT_DIR$/egghead-react-redux-image-gallery-master/README.md" />
+        <option value="$PROJECT_DIR$/bloggur-master/README.md" />
+        <option value="$PROJECT_DIR$/Quiz-Simply-React-master/README.md" />
+        <option value="$PROJECT_DIR$/redux-wanted-list-master/README.md" />
+        <option value="$PROJECT_DIR$/example-weather-webapp-master/README.md" />
+        <option value="$PROJECT_DIR$/2015-02-13-React-master/README.md" />
       </list>
     </option>
   </component>
@@ -73,17 +185,29 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/2015-02-13-React-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Quiz-Simply-React-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/bloggur-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/catbook-redux-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/egghead-react-redux-image-gallery-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/example-weather-webapp-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/guide-1-react-router/node_modules" />
     <handled-path value="$PROJECT_DIR$/guide-2-container-components/node_modules" />
     <handled-path value="$PROJECT_DIR$/guide-3-redux/node_modules" />
     <handled-path value="$PROJECT_DIR$/learn-redux/node_modules" />
+    <handled-path value="$PROJECT_DIR$/pluralsight_jest/node_modules" />
+    <handled-path value="$PROJECT_DIR$/reactjs-by-example-master/chapter13/node_modules" />
+    <handled-path value="$PROJECT_DIR$/reactjs-by-example-master/chapter9/node_modules" />
+    <handled-path value="$PROJECT_DIR$/redux-friendlist-demo-1.0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/redux-tutorial-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/redux-wanted-list-master/node_modules" />
     <handled-path value="$PROJECT_DIR$/riastart2015/node_modules" />
+    <handled-path value="$PROJECT_DIR$/todo-app-master/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
     <option name="y" value="23" />
-    <option name="width" value="1136" />
-    <option name="height" value="731" />
+    <option name="width" value="1238" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -100,7 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,8 +236,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2015-02-13-React-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Redux-Starter-Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2015-02-13-React-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -127,6 +283,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/learn-redux/client" />
     </key>
   </component>
@@ -203,23 +360,24 @@
       <updated>1483053871863</updated>
       <workItem from="1483053873471" duration="6410000" />
       <workItem from="1483147780934" duration="7790000" />
-      <workItem from="1483200266387" duration="110000" />
+      <workItem from="1483200266387" duration="4971000" />
+      <workItem from="1483536056658" duration="2819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14310000" />
+    <option name="totallyTimeSpent" value="21990000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="23" width="1136" height="731" extended-state="0" />
+    <frame x="0" y="23" width="1238" height="728" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40807176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37387016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -244,177 +402,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/guide-3-redux/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-redux/client/data/posts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-redux/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-redux/devServer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-redux/webpack.config.prod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/PhotoGrid.js" />
-    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Single.js" />
-    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Main.js" />
-    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/App.js" />
-    <entry file="file://$PROJECT_DIR$/19/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19/reduxstagram.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn-redux/client/actions/actionCreators.js" />
-    <entry file="file://$PROJECT_DIR$/learn-redux/client/data/comments.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1483147773000" expanded="true" signature="17:6889" ph="{...}" />
-            <marker date="1483147773000" expanded="true" signature="35:125" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="41:121" ph="{&quot;text&quot;: &quot;Totally need to try this.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="143:438" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="149:225" ph="{&quot;text&quot;: &quot;Wes. WE should have lunch.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="231:288" ph="{&quot;text&quot;: &quot;##adults&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="294:356" ph="{&quot;text&quot;: &quot;@jdaveknox yes!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="362:434" ph="{&quot;text&quot;: &quot;😍 love Hamilton!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="456:1524" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="462:565" ph="{&quot;text&quot;: &quot;Those are cute! They're like silver dollar pancakes.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="571:721" ph="{&quot;text&quot;: &quot;I like baby pancakes but gluten free please!! I'll bring the coffee!! See you in 6 days!!!!!! 😝😛😝♥️&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="727:823" ph="{&quot;text&quot;: &quot;... and apparently growing baby. 👀. Yum.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="829:930" ph="{&quot;text&quot;: &quot;@wesbos 👍 my daughter is a pancake eating machine!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="936:993" ph="{&quot;text&quot;: &quot;Nice stove!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="999:1133" ph="{&quot;text&quot;: &quot;Genius bottle use! Do you make a single batch of batter or make a lot and freeze it?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1139:1281" ph="{&quot;text&quot;: &quot;@gobananna I just made a batch and put in in a FIFO bottle. Keeps in the fridge for a few days.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1287:1388" ph="{&quot;text&quot;: &quot;@haaps thanks! It's a Jenn air - so nice to cool with!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1394:1520" ph="{&quot;text&quot;: &quot;Where would you go and for how long, if you had location freedom? - Greg 🌎&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1542:2545" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="1548:1661" ph="{&quot;text&quot;: &quot;Looking great Wes! I'd like to see the other side of the room too.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1667:1811" ph="{&quot;text&quot;: &quot;I've never caught your podcast. Have one right? Btw - they don't have a Canary pillow? 😝&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1817:1892" ph="{&quot;text&quot;: &quot;Great way to start the year.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1898:1976" ph="{&quot;text&quot;: &quot;Are there 4k monitors?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="1982:2211" ph="{&quot;text&quot;: &quot;@axcdnt that is where I put all the junk. I'll have to clean that side too @henrihelvetica no podcast yet! @pmgllc ohh yeah! @alexbaumgertner yep - the main one is 4K - I'm loving it&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2217:2299" ph="{&quot;text&quot;: &quot;That chrome pillow. 😉&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2305:2474" ph="{&quot;text&quot;: &quot;@wesbos is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2480:2541" ph="{&quot;text&quot;: &quot;##minimalsetups&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2562:2653" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="2568:2649" ph="{&quot;text&quot;: &quot;that is the sound of success!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2670:2911" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="2676:2757" ph="{&quot;text&quot;: &quot;Did she get to eat her letter?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2763:2907" ph="{&quot;text&quot;: &quot;Nope @pathiebert! She has too much teeth now (8) so that would definitely be her first cavity 😉&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2928:3101" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="2934:2985" ph="{&quot;text&quot;: &quot;A+&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="2991:3097" ph="{&quot;text&quot;: &quot;I recently went to a ramen place in Philly. So amazing!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3118:3216" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="3124:3212" ph="{&quot;text&quot;: &quot;All bundled up!  Where ya goin?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3233:3590" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="3239:3337" ph="{&quot;text&quot;: &quot;Super congrats! That's wicked cool and looks great.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3343:3489" ph="{&quot;text&quot;: &quot;real live paper magazine? woah haha. flex box is awesome though, could rage quit without it&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3495:3586" ph="{&quot;text&quot;: &quot;@tjholowaychuk2 haha yes! Old school stylez!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3607:3613" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="3630:3774" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="3636:3686" ph="{&quot;text&quot;: &quot;👌&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3692:3770" ph="{&quot;text&quot;: &quot;Nice shot, mister!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3791:3923" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="3797:3854" ph="{&quot;text&quot;: &quot;😍&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3860:3919" ph="{&quot;text&quot;: &quot;Very cool!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="3940:4007" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="3946:4003" ph="{&quot;text&quot;: &quot;Uhu!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4023:4376" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="4029:4109" ph="{&quot;text&quot;: &quot;What's your lighting source?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4115:4264" ph="{&quot;text&quot;: &quot;And what are you using for XLR mix adapter? I found a big price jump between $55 range and $170 range.&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4270:4372" ph="{&quot;text&quot;: &quot;I still need a desk boom for mine mic. Nice upgrades&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4392:4398" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="4414:4510" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="4420:4506" ph="{&quot;text&quot;: &quot;Love the coat! Where's it from? Lol&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4526:4532" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="4548:5201" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="4554:4646" ph="{&quot;text&quot;: &quot;What do we gotta do to get some :)? @wesbos&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4652:4789" ph="{&quot;text&quot;: &quot;Might drop by today - real quick. Trade you an illegal pin for these? Lol. @wesbos&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4795:4893" ph="{&quot;text&quot;: &quot;I'm with @jonasbad on this. What we gotta do? :D&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="4899:5001" ph="{&quot;text&quot;: &quot;@jonasbad @datamoshr I'll post them up on my blog soon!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5007:5065" ph="{&quot;text&quot;: &quot;Want&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5071:5130" ph="{&quot;text&quot;: &quot;want!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5136:5197" ph="{&quot;text&quot;: &quot;##Top&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5217:5431" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="5223:5297" ph="{&quot;text&quot;: &quot;Where's lux at? 💤?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5303:5427" ph="{&quot;text&quot;: &quot;Love this house during the holidays! And all other times of the year...&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5447:5679" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="5453:5515" ph="{&quot;text&quot;: &quot;@dogsandbrew&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5521:5588" ph="{&quot;text&quot;: &quot;Next on my list!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5594:5675" ph="{&quot;text&quot;: &quot;Is that from collective arts ?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5695:6653" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="5701:5782" ph="{&quot;text&quot;: &quot;@kaitbos  that vest!!! 😍&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5788:5862" ph="{&quot;text&quot;: &quot;I just love her! @kaitbos&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="5868:6041" ph="{&quot;text&quot;: &quot;@courtneyeveline I know! My friend gave it to her and I wanted a matching one but only Lux can pull it off. She's so fancy 😉&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6047:6132" ph="{&quot;text&quot;: &quot;Char has that vest!!! Super cute!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6138:6226" ph="{&quot;text&quot;: &quot;You'll have to meet her soon @kalibrix!!&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6232:6349" ph="{&quot;text&quot;: &quot;Haha @kaitbos so true, babies these days are sooo stylish. 😎&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6355:6425" ph="{&quot;text&quot;: &quot;JavaScript 😄😆🙋&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6431:6522" ph="{&quot;text&quot;: &quot;That hoodie is amazing! Where did you get it?&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6528:6649" ph="{&quot;text&quot;: &quot;@br11x I did a teespring a few months ago - maybe I'll do another one soon&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6669:6887" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="6675:6815" ph="{&quot;text&quot;: &quot;If you get in the mood for authentic Italian pizza, check out @backspaceaustin - it's👌🏻&quot;...}" />
-            <marker date="1483147773000" expanded="true" signature="6821:6883" ph="{&quot;text&quot;: &quot;😱 jealous&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn-redux/webpack.config.dev.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1483147773000" expanded="true" signature="80:699" ph="{&quot;devtool&quot;: 'source-map'...}" />
-            <marker date="1483147773000" expanded="true" signature="116:186" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="198:297" ph="{&quot;filename&quot;: 'bundle.js'...}" />
-            <marker date="1483147773000" expanded="true" signature="310:394" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="406:697" ph="{...}" />
-            <marker date="1483147773000" expanded="true" signature="421:693" ph="[...]" />
-            <marker date="1483147773000" expanded="true" signature="437:537" ph="{...}" />
-            <marker date="1483147773000" expanded="true" signature="554:687" ph="{&quot;loader&quot;: 'style-loader!css-loader!stylus-loader'...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -422,10 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-            <element signature="e#140#177#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -434,11 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-            <element signature="e#113#171#0" expanded="false" />
-            <element signature="e#245#282#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,9 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -515,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,5 +507,237 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redux-voting-server/index.js" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-friendlist-demo-1.0/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="63" lean-forward="false" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-app-master/src/site/url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-app-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-app-master/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-app-master/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catbook-redux-master/src/api/CatsApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catbook-redux-master/npm-debug.log.2647937463">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catbook-redux-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-tutorial-master/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-tutorial-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egghead-react-redux-image-gallery-master/src/api/flickr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egghead-react-redux-image-gallery-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="77" lean-forward="false" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloggur-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="96" lean-forward="false" selection-start-line="0" selection-start-column="96" selection-end-line="0" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quiz-Simply-React-master/src/js/types/quiz.flow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quiz-Simply-React-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="82" lean-forward="false" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14ers-redux-master/src/data/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-wanted-list-master/src/actions/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux-wanted-list-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-weather-webapp-master/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-weather-webapp-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="65" lean-forward="false" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloggur-master/src/themes/dark/dark.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pluralsight_jest/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pluralsight_jest/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactjs-by-example-master/chapter13/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/2-props/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-861">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/2-props/notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1701">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/1-your-first-component/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015-02-13-React-master/excercises/1-your-first-component/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

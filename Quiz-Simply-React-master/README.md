@@ -11,5 +11,5 @@ Use `npm install` to install all dependencies.
 Use `npm run build` to build the site.
 
 Use `npm run dev` use dev sever.
-
+http://www.wsbrunson.com/react/redux/test/2016/05/08/testing-redux-containers.html
 Use `npm test` to run Karma test suite.

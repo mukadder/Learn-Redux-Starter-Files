@@ -1,4 +1,4 @@
-# bloggur
+https://medium.com/@timbur/react-automatic-redux-providers-and-replicators-c4e35a39f1#.en6w6vd0z
 
 [![build status](https://img.shields.io/travis/loggur/bloggur/master.svg?style=flat-square)](https://travis-ci.org/loggur/bloggur) [![npm version](https://img.shields.io/npm/v/bloggur.svg?style=flat-square)](https://www.npmjs.com/package/bloggur)
 [![npm downloads](https://img.shields.io/npm/dm/bloggur.svg?style=flat-square)](https://www.npmjs.com/package/bloggur)

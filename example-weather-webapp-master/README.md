@@ -1,4 +1,5 @@
 # Example Weather Webapp
+https://makers.airware.com/engineering/life-with-react-and-redux/
 
 This project is a basic weather app built with technologies like Webpack, Babel,
 React, React Router, and Redux.  There will be a blog post explaining bits of this
